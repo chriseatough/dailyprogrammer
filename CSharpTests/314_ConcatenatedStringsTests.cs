@@ -8,7 +8,7 @@ namespace CSharpTests
     public class ConcatenatedStringsTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test314_ConcatenatedStrings()
         {
             (string input, long smallest, long largest)[] collection = {
                 (input: "5 56 50", smallest: 50556, largest: 56550),
